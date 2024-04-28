@@ -2,6 +2,10 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+# My Design
+![image](https://github.com/gunshycs/frontend-challenges/assets/70672556/8fd51fb6-231d-40d4-8daa-cb4c5c33c54c)
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
